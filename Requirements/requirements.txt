@@ -1,0 +1,8 @@
+# libraries
+tensorflow
+torch
+learn2learn
+scikit-learn
+opencv-python
+pandas
+matplotlib
